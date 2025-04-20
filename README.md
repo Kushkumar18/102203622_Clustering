@@ -45,8 +45,4 @@ Perform clustering on the Iris dataset using different algorithms and preprocess
 
 ---
 
-## 🛠️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yatinjindal21/clustering-assignment.git
-   cd clustering-assignment
+
